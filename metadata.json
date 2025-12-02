@@ -1,0 +1,8 @@
+{
+  "name": "ZenSpace - AI Organizer",
+  "description": "An AI-powered home organization assistant that helps you declutter your space using advanced image analysis, visualization, and real-time guidance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
