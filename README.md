@@ -33,7 +33,7 @@ Want to test it out?
 
 ```bash
 # Clone the repo
-git clone [https://github.com/Yudhajeet-debug/ZenSpace-AI-Organizer.git](https://github.com/Yudhajeet-debug/ZenSpace-AI-Organizer.git)
+git clone https://github.com/Yudhajeet-debug/ZenSpace-AI-Organizer.git
 
 # Install dependencies
 npm install
